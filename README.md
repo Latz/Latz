@@ -6,5 +6,10 @@
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [BigTech kontrolliert die Web-Entwicklung](https://elektroelch.de/blog/bigtech-kontrolliert-die-web-entwicklung/)
+- [JavaScript – Die Klassen eines HTML-Elements austauschen](https://elektroelch.de/blog/javascript-die-klassen-eines-html-elements-austauschen/)
+- [Popup-Bikelane Kassel](https://elektroelch.de/blog/popup-bikelane-kassel/)
+- [Today I learned…](https://elektroelch.de/blog/today-i-learned/)
+- [JavaScript: Die console() kann mehr als Du denkst](https://elektroelch.de/blog/javascript-die-console-kann-mehr-als-du-denkst/)
 <!-- BLOG-POST-LIST:END -->
 
