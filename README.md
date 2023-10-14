@@ -8,10 +8,10 @@
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Pushing the Newsblur new stories limit &lpar;if you’re self-hosting&rpar;](https://elektroelch.net/pushing-the-newsblur-new-stories-limit-if-youre-self-hosting/)
 - [Using JavaScript modules in your WordPress plugins](https://elektroelch.net/using-javascript-modules-in-your-wordpress-plugins/)
 - [Chrome side panel: Simulate close event](https://elektroelch.net/chrome-side-panel-simulate-close-event/)
 - [Chrome extensions, Manifest v3 and local storage views](https://elektroelch.net/chrome-extensions-manifest-v3-and-local-storage-views/)
 - [How-to split a number into equal chunks](https://elektroelch.net/how-to-split-a-number-into-equal-chunks/)
-- [Firefox Addon: Add options menu to addon icon](https://elektroelch.net/firefox-addon-add-options-menu-to-addon-icon/)
 <!-- BLOG-POST-LIST:END -->
 
