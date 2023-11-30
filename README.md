@@ -8,10 +8,10 @@
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [My 10 simple UX rules](https://elektroelch.net/my-10-simple-ux-rules/)
 - [We need a LoDash for WordPress](https://elektroelch.net/we-need-a-lodash-for-wordpress/)
 - [VSCode keyboard shortcuts I’m actually using](https://elektroelch.net/vscode-keyboard-shortcuts-im-actually-using/)
 - [How to loop through an array with a variable starting element](https://elektroelch.net/how-to-loop-through-an-array-with-a-variable-starting-element/)
 - [Pushing the Newsblur new stories limit &lpar;if you’re self-hosting&rpar;](https://elektroelch.net/pushing-the-newsblur-new-stories-limit-if-youre-self-hosting/)
-- [The modern way of checking radio groups](https://elektroelch.net/the-modern-way-of-checking-radio-groups/)
 <!-- BLOG-POST-LIST:END -->
 
