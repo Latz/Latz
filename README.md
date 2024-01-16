@@ -11,10 +11,10 @@
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Weekend project: Jump to Header](https://elektroelch.net/weekend-project-jump-to-header/)
 - [My 10 simple UX rules](https://elektroelch.net/my-10-simple-ux-rules/)
 - [We need a LoDash for WordPress](https://elektroelch.net/we-need-a-lodash-for-wordpress/)
 - [VSCode keyboard shortcuts I’m actually using](https://elektroelch.net/vscode-keyboard-shortcuts-im-actually-using/)
 - [How to loop through an array with a variable starting element](https://elektroelch.net/how-to-loop-through-an-array-with-a-variable-starting-element/)
-- [Pushing the Newsblur new stories limit &lpar;if you’re self-hosting&rpar;](https://elektroelch.net/pushing-the-newsblur-new-stories-limit-if-youre-self-hosting/)
 <!-- BLOG-POST-LIST:END -->
 
