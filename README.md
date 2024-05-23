@@ -11,10 +11,10 @@
 
 ## Latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Javascript – Rounding floating point numbers](https://elektroelch.net/javascript-rounding-floating-point-numbers/)
 - [Weekend project: Jump to Header](https://elektroelch.net/weekend-project-jump-to-header/)
 - [My 10 simple UX rules](https://elektroelch.net/my-10-simple-ux-rules/)
 - [We need a LoDash for WordPress](https://elektroelch.net/we-need-a-lodash-for-wordpress/)
 - [VSCode keyboard shortcuts I’m actually using](https://elektroelch.net/vscode-keyboard-shortcuts-im-actually-using/)
-- [How to loop through an array with a variable starting element](https://elektroelch.net/how-to-loop-through-an-array-with-a-variable-starting-element/)
 <!-- BLOG-POST-LIST:END -->
 
